@@ -1,1 +1,4 @@
 amavis:
+  dbname: DBNAME
+  dbuser: DBUSER
+  dbpass: DBPASS
